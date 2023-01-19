@@ -44,10 +44,3 @@ I am a passionate and hard working full stack software developer from [Colombia]
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 </details>
-
-<details>
-	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=jzamora5&show_icons=true&count_private=true" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=jzamora5&layout=compact" alt="GitHub Top Languages" align="top"/>
-</details>
